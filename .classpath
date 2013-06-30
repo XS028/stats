@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry exported="true" kind="lib" path="C:/adt/lib/json-simple-1.1.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/adt/lib/commons-codec-1.7.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/adt/lib/grizzly-http-utils-1.7.3.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/adt/lib/json-20090211.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/adt/lib/servlet-api-5.5.12.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

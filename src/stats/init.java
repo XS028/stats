@@ -3,7 +3,6 @@ package stats;
 public class init{
 	
 	public static void initba(){
-		
 		for (int i = 0; i<stats.before.length; i++){stats.before[i] = "";}
 		for (int i = 0; i<stats.after.length; i++){stats.after[i] = "";}
 		for (int i = 0; i<stats.st.length; i++){stats.st[i] = "";}
@@ -37,7 +36,6 @@ public class init{
 		stats.before[5] = stats.before[5].replace('^', '"');
  
 		stats.after[11] = stats.after[11].replace('^', '"');
-
 	}
 
-}
+}//
