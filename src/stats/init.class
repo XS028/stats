@@ -1,0 +1,8 @@
+package stats;
+
+public class init{
+
+public static void initmain(){
+}
+
+}
